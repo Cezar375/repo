@@ -1,8 +1,3 @@
-<<<<<<< HEAD
+# repo
 #repo
 nimic
-=======
-# repo
-
-let's try this
->>>>>>> test
